@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.5,
+          "height": 3.5,
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "modelec_puissance.kicad_pro",
+    "filename": "pcb_puissance.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -419,26 +419,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "Net-(D9-A)": "BUTTON_NO",
-      "Net-(K1-Pad1)": "TRANSFO1",
-      "unconnected-(F1-Pad1)": "BATTERY",
-      "unconnected-(J1-Pad1)": "BATTERY",
-      "unconnected-(J3-Pad1)": "BUTTON_NC",
-      "unconnected-(J4-Pad2)": "BUTTON_NC",
-      "unconnected-(J5-Pad2)": "BUTTON_NO",
-      "unconnected-(J7-Pad1)": "RELAY_NC",
-      "unconnected-(J8-Pad1)": "RELAY_NO",
-      "unconnected-(K1-Pad3)": "RELAY_NO",
-      "unconnected-(K1-Pad4)": "RELAY_NC",
-      "unconnected-(R1-Pad2)": "BUTTON_NO",
-      "unconnected-(R2-Pad2)": "RELAY_NO",
-      "unconnected-(R3-Pad2)": "BATTERY",
-      "unconnected-(R6-Pad2)": "TRANSFO1",
-      "unconnected-(R7-Pad2)": "BUTTON_NC",
-      "unconnected-(R8-Pad2)": "RELAY_NC",
-      "unconnected-(TRANSFO1-Pad1)": "BUTTON_NC"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
