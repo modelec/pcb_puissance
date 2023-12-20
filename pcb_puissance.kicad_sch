@@ -1842,7 +1842,7 @@
     (property "If" "25mA" (at 59.69 157.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Name" "TRANSFO1" (at 54.61 156.21 0)
+    (property "Name" "TRANSFO" (at 54.61 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7ab020b9-55f4-4f60-b07c-cf9314cd0a77))
