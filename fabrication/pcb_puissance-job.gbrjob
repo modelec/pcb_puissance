@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.9"
     },
-    "CreationDate": "2023-12-26T13:28:02+01:00"
+    "CreationDate": "2024-03-18T16:59:47+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pcb_puissance",
       "GUID": "7063625f-7075-4697-9373-616e63652e6b",
-      "Revision": "1.1"
+      "Revision": "1.2"
     },
     "Size": {
       "X": 126.6,
