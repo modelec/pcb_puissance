@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 65800301009
+D ACS 5X20MM SMD FUSE BLOCK 30 AMP. THERMO
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=8563b5b9-30c3-4ebb-8e89-3cabf2bd05b5&filename=littelfuse-fuse-block-658-datasheet
+$ENDCMP
+#
+#End Doc Library
