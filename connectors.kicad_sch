@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Power output connectors")
-		(date "2025-01-29")
-		(rev "2")
+		(date "2025-02-10")
+		(rev "3")
 		(company "Modelec")
 		(comment 2 "USBC-Power Delivery 5V15 capacity, programmable from the STM32 via I2C")
 		(comment 3 "outputs. Current/Voltage/Power measurements for each power supply via I2C and alerts.")

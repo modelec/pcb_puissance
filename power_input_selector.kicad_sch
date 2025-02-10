@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Power input selector")
-		(date "2025-01-29")
-		(rev "2")
+		(date "2025-02-10")
+		(rev "3")
 		(company "Modelec")
 		(comment 1 "Shuts down all inputs with EN. Returns validity status of each line with VALID")
 		(comment 2 "Switch to highest priority input when valid and to a lower priority input when invalid.")

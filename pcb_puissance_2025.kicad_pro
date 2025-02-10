@@ -86,7 +86,7 @@
         "hole_clearance|141550000|141175000|62ab2533-6caa-4151-91a4-4426e6acd2ec|e891ec04-9101-43c9-ba87-743489fd64b6",
         "hole_clearance|146950000|141175000|fc2864d2-abdd-4265-a5eb-fb79efd850a8|085fde8f-0f50-4503-95f0-b51a96fb649a",
         "hole_clearance|147150000|141175000|fc2864d2-abdd-4265-a5eb-fb79efd850a8|ddafb39a-2784-4104-b99e-ee7db51574d2",
-        "lib_footprint_mismatch|114390000|95100000|21c8f2b5-f67c-4ebc-9489-d4cfff37caa8|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|114750000|95100000|21c8f2b5-f67c-4ebc-9489-d4cfff37caa8|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|115645000|126845000|f49abf11-2357-4609-87ef-a906d79c7c8e|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|144500000|90250000|fcf6ad91-6562-4ae1-a86c-9d247992aa0c|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|144552615|101251297|c7a691d3-9f26-4c3b-b02e-84041ab6f7ae|00000000-0000-0000-0000-000000000000",
@@ -544,13 +544,13 @@
     "bom_export_filename": "BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
-      "field_delimiter": ",",
+      "field_delimiter": "|",
       "keep_line_breaks": false,
       "keep_tabs": false,
-      "name": "CSV",
+      "name": "---",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
-      "string_delimiter": "\""
+      "string_delimiter": ""
     },
     "bom_presets": [],
     "bom_settings": {
