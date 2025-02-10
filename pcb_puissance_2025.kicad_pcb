@@ -111,7 +111,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
-			(layerselection 0x003ffff_ffffffff)
+			(layerselection 0x003f0ff_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -28390,10 +28390,10 @@
 		(descr "High voltage symbol, no triangle, 2x5mm, copper layer")
 		(tags "warning graphic")
 		(property "Reference" "REF**"
-			(at 0 -3 360)
+			(at 0 -3 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "2111d5ed-d381-446a-a817-fc05a1107a76")
+			(uuid "61c58c4f-1796-4ba1-b687-c38c33295bc5")
 			(effects
 				(font
 					(size 1 1)
@@ -28402,10 +28402,10 @@
 			)
 		)
 		(property "Value" "Symbol_HighVoltage_NoTriangle_2x5mm_Copper"
-			(at 0.508 3 360)
+			(at 0.508 3 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "716b2f33-87c5-449a-84cf-3bc231cf5862")
+			(uuid "5296f131-0b8c-4dec-94aa-9dca31b9f7e5")
 			(effects
 				(font
 					(size 1 1)
@@ -28461,7 +28461,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "6f032085-fe09-4a5f-aee3-5a751bbc2b45")
+			(uuid "bc4bf635-855c-4ba3-b2c1-a4621f7c57f8")
 		)
 		(fp_line
 			(start -0.49 -0.65)
@@ -28471,7 +28471,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "0b26041c-2312-407d-bad5-aa166aa03c22")
+			(uuid "0b20a985-454e-4bd6-95d4-32f0cb0bb985")
 		)
 		(fp_poly
 			(pts
@@ -28485,7 +28485,7 @@
 			)
 			(fill solid)
 			(layer "B.Mask")
-			(uuid "af78305a-298c-4f22-aaa3-2231a0023231")
+			(uuid "c4ea84d3-4dba-44f8-8836-3cc9539b7d76")
 		)
 		(fp_line
 			(start -0.38 1.23)
@@ -28495,7 +28495,7 @@
 				(type default)
 			)
 			(layer "F.Mask")
-			(uuid "ad9f008c-3659-4a0a-82bf-ff9bc049d0b0")
+			(uuid "394178cd-fcb6-4dc9-ac32-a9911c5403fe")
 		)
 	)
 	(footprint "Modelec:THN301211"
@@ -38893,7 +38893,7 @@
 			(at 0 3 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2111d5ed-d381-446a-a817-fc05a1107a76")
+			(uuid "ff866ed0-8253-427a-b0e4-b1b03b1db80d")
 			(effects
 				(font
 					(size 1 1)
@@ -38906,7 +38906,7 @@
 			(at 0.508 -3 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "716b2f33-87c5-449a-84cf-3bc231cf5862")
+			(uuid "2f0c9ecb-cfe8-4b29-83c5-3004a8e79f26")
 			(effects
 				(font
 					(size 1 1)
@@ -38966,7 +38966,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "ad9f008c-3659-4a0a-82bf-ff9bc049d0b0")
+			(uuid "fbb48834-f14a-4594-b227-4cd69665e45d")
 		)
 		(fp_line
 			(start 0.03 0.155)
@@ -38976,7 +38976,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "6f032085-fe09-4a5f-aee3-5a751bbc2b45")
+			(uuid "602f6a1f-530e-4693-8347-c851b5d8e649")
 		)
 		(fp_line
 			(start -0.29 0.4)
@@ -38986,7 +38986,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "0b26041c-2312-407d-bad5-aa166aa03c22")
+			(uuid "bb00f290-a839-4bcf-99e4-462c5894a372")
 		)
 		(fp_poly
 			(pts
@@ -39000,7 +39000,7 @@
 			)
 			(fill solid)
 			(layer "B.Mask")
-			(uuid "af78305a-298c-4f22-aaa3-2231a0023231")
+			(uuid "ea299095-0f95-468e-b99f-c5aab81103d8")
 		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
@@ -44264,7 +44264,7 @@
 			(at 0 3 90)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2111d5ed-d381-446a-a817-fc05a1107a76")
+			(uuid "13bf1ea3-39b9-456d-81be-303e85f1ed69")
 			(effects
 				(font
 					(size 1 1)
@@ -44277,7 +44277,7 @@
 			(at 0.508 -3 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "716b2f33-87c5-449a-84cf-3bc231cf5862")
+			(uuid "4326f5b0-b5b6-4ab0-83f6-da0919a96f6d")
 			(effects
 				(font
 					(size 1 1)
@@ -44337,7 +44337,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "ad9f008c-3659-4a0a-82bf-ff9bc049d0b0")
+			(uuid "eed852d9-dd59-4ce7-9781-11ad3824767a")
 		)
 		(fp_line
 			(start 0.03 0.155)
@@ -44347,7 +44347,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "6f032085-fe09-4a5f-aee3-5a751bbc2b45")
+			(uuid "0b8e5a12-0247-4294-aa5c-1d0b5d8a169c")
 		)
 		(fp_line
 			(start -0.29 0.4)
@@ -44357,7 +44357,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "0b26041c-2312-407d-bad5-aa166aa03c22")
+			(uuid "4b54a766-1b26-42f0-9fbc-2e46792ce0fa")
 		)
 		(fp_poly
 			(pts
@@ -44371,7 +44371,7 @@
 			)
 			(fill solid)
 			(layer "B.Mask")
-			(uuid "af78305a-298c-4f22-aaa3-2231a0023231")
+			(uuid "1e0886da-1c17-44a0-be0e-77b8101c60f3")
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
@@ -49080,10 +49080,10 @@
 		(descr "High voltage symbol, no triangle, 2x5mm, copper layer")
 		(tags "warning graphic")
 		(property "Reference" "REF**"
-			(at 0 3 360)
+			(at 0 3 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2111d5ed-d381-446a-a817-fc05a1107a76")
+			(uuid "56480f3b-6ae0-42cd-86c0-9bb2e0a1b4b4")
 			(effects
 				(font
 					(size 1 1)
@@ -49093,10 +49093,10 @@
 			)
 		)
 		(property "Value" "Symbol_HighVoltage_NoTriangle_2x5mm_Copper"
-			(at 0.508 -3 360)
+			(at 0.508 -3 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "716b2f33-87c5-449a-84cf-3bc231cf5862")
+			(uuid "64bfc5b1-4d51-4451-9e46-2ed22637b75c")
 			(effects
 				(font
 					(size 1 1)
@@ -49156,7 +49156,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "0b26041c-2312-407d-bad5-aa166aa03c22")
+			(uuid "47536155-9af0-4810-be40-77b9e6a0f6e1")
 		)
 		(fp_line
 			(start 0.03 0.155)
@@ -49166,7 +49166,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "6f032085-fe09-4a5f-aee3-5a751bbc2b45")
+			(uuid "fe04f047-04f8-452f-90b5-c5ab2279f6cd")
 		)
 		(fp_line
 			(start 0.13 -1.32)
@@ -49176,7 +49176,7 @@
 				(type default)
 			)
 			(layer "B.Mask")
-			(uuid "ad9f008c-3659-4a0a-82bf-ff9bc049d0b0")
+			(uuid "ab219889-f0d5-4593-96f6-311c13e768e9")
 		)
 		(fp_poly
 			(pts
@@ -49190,7 +49190,7 @@
 			)
 			(fill solid)
 			(layer "B.Mask")
-			(uuid "af78305a-298c-4f22-aaa3-2231a0023231")
+			(uuid "a5f6c653-3c6f-4956-a543-41ef91a1e0c6")
 		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"

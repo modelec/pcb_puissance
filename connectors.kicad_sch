@@ -7538,7 +7538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA236AIDDFR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina236.pdf"
 			(at 134.62 58.42 0)
 			(effects
 				(font
@@ -9048,7 +9048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA236AIDDFR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina236.pdf"
 			(at 43.18 58.42 0)
 			(effects
 				(font
@@ -9809,7 +9809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA236AIDDFR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina236.pdf"
 			(at 219.71 57.15 0)
 			(effects
 				(font
@@ -12320,7 +12320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA236AIDDFR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina236.pdf"
 			(at 45.72 132.08 0)
 			(effects
 				(font

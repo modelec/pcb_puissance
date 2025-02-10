@@ -95,12 +95,6 @@
         "lib_footprint_mismatch|186247385|84651297|2b4fc7a4-14fd-4ad2-a7af-176a77469b9f|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|188000000|65100000|786c5340-2cfc-41e3-95a7-c3aa157cacb9|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|190017135|109986236|2b06c76a-1ff6-41f9-a55a-9e958711d377|00000000-0000-0000-0000-000000000000",
-        "track_dangling|116600000|146932843|7db23b13-381a-48fb-9521-85511f4162db|00000000-0000-0000-0000-000000000000",
-        "track_dangling|117200000|146932843|61b10f53-ac01-4f87-a950-7ce5eab578ec|00000000-0000-0000-0000-000000000000",
-        "track_dangling|117500000|146932843|337d0ebf-d666-41ba-9c39-89401a6f3d23|00000000-0000-0000-0000-000000000000",
-        "track_dangling|117500000|148232843|94f31c3b-c237-462d-ac6f-8550ca8aada8|00000000-0000-0000-0000-000000000000",
-        "track_dangling|118300000|148232843|4b8766a3-32de-4ec1-8fa2-b4e142ad669e|00000000-0000-0000-0000-000000000000",
-        "track_dangling|118800000|148232843|4b601939-ef54-4372-bc41-9691c4d3f580|00000000-0000-0000-0000-000000000000",
         "track_dangling|150000000|137750000|efcb3f2d-b6cb-49bf-8338-c3a966c32f92|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
@@ -549,8 +543,8 @@
       "keep_tabs": false,
       "name": "---",
       "ref_delimiter": ",",
-      "ref_range_delimiter": "",
-      "string_delimiter": ""
+      "ref_range_delimiter": "|",
+      "string_delimiter": "|"
     },
     "bom_presets": [],
     "bom_settings": {
@@ -569,7 +563,7 @@
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
@@ -578,19 +572,19 @@
           "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -644,7 +638,7 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

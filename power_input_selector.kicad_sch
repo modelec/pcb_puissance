@@ -5607,7 +5607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA236AIDDFR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina236.pdf"
 			(at 54.61 100.33 0)
 			(effects
 				(font
@@ -7090,7 +7090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA236AIDDFR"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina236.pdf"
 			(at 54.61 68.58 0)
 			(effects
 				(font
